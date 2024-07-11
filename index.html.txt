@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>安排學習計劃</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>安排學習計劃</h1>
+    </header>
+    <main>
+        <section class="plan">
+            <h2>計劃一</h2>
+            <p>描述您的第一個學習計劃安排。</p>
+        </section>
+        <section class="plan">
+            <h2>計劃二</h2>
+            <p>描述您的第二個學習計劃安排。</p>
+        </section>
+        <section class="plan">
+            <h2>計劃三</h2>
+            <p>描述您的第三個學習計劃安排。</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 安排學習計劃. 保留所有權利。</p>
+    </footer>
+</body>
+</html>
